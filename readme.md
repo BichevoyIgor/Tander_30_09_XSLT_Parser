@@ -1,9 +1,9 @@
 Написать XSLT преобразование, которе приведет xml:
 
     <articles>
-        <articles id_art="1" name="Igor" code="1" username="igoreek" guid="12312435efewf2"/>
-        <articles id_art="2" name="Daniil" code="2" username="danches" guid="123dsarfg435efewf2"/>
-        <articles id_art="3" name="Petr" code="3" username="petrucho" guid="fhfh4487439ewiuhdfkjh8dsf"/>
+        <articles id_art="1" name="Person1" code="1" username="person" guid="12312435efewf2"/>
+        <articles id_art="2" name="Person2" code="2" username="person2" guid="123dsarfg435efewf2"/>
+        <articles id_art="3" name="Person3" code="3" username="person3" guid="fhfh4487439ewiuhdfkjh8dsf"/>
     </articles>
 
 к виду:
