@@ -1,0 +1,8 @@
+.idea/
+bin/
+gen/
+target/
+*.iml
+*.iws
+*.class
+local.properties

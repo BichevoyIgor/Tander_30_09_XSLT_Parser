@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articles>
+  <article>
+    <id_art>1</id_art>
+    <name>Igor</name>
+    <code>1</code>
+    <username>igoreek</username>
+    <guid>12312435efewf2</guid>
+  </article>
+  <article>
+    <id_art>2</id_art>
+    <name>Daniil</name>
+    <code>2</code>
+    <username>danches</username>
+    <guid>123dsarfg435efewf2</guid>
+  </article>
+  <article>
+    <id_art>3</id_art>
+    <name>Petr</name>
+    <code>3</code>
+    <username>petrucho</username>
+    <guid>fhfh4487439ewiuhdfkjh8dsf</guid>
+  </article>
+</articles>
